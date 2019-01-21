@@ -2,6 +2,9 @@
 
 Landing page
 
+Check out how to [get started](getting-started.md).
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
@@ -16,5 +19,5 @@ Landing page
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc5NzgzNzBdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTUzNTYxMiwtMTI4Nzk3ODM3MF19
 -->
