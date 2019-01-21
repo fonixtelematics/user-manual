@@ -1,0 +1,32 @@
+# project information
+site_name: Web Client
+
+# copyright
+copyright: 'Copyright &copy; 2019 Fonix Telematics Ltd'
+
+# repository
+
+# configuration
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'teal'
+  logo:
+    icon: 'help'
+
+# customization
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/FonixTelematics'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/1391224/'
+
+# extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
