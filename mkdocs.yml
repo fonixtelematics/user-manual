@@ -1,5 +1,10 @@
 # project information
-site_name: Web Client
+site_name: Web Client Documentation
+nav:
+  - Home: index.md
+  - Getting starged: getting-started.md
+  - Map: module-map.md
+  - Administration: module-administration.md
 
 # copyright
 copyright: 'Copyright &copy; 2019 Fonix Telematics Ltd'
@@ -28,5 +33,7 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
+      linenums: true
+  - footnotes
   - toc:
       permalink: true
