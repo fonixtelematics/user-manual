@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Landing page
 
 ## Commands
 
@@ -15,3 +15,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyODc5NzgzNzBdfQ==
+-->
