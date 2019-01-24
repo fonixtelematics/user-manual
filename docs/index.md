@@ -4,7 +4,7 @@ Landing page
 
 Check out how to [get started](getting-started.md).
 
-![enter image description here](img/fonix_eye_light.png)
+![image](https://github.com/fonixtelematics/user-manual/blob/master/docs/img/fonix_eye_light.png)
 
 ## Commands
 
@@ -20,6 +20,6 @@ Check out how to [get started](getting-started.md).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjkxMTY0MSw2MDc2NDM3NjIsLTQ2OT
+eyJoaXN0b3J5IjpbLTM1NjU1OTQzNyw2MDc2NDM3NjIsLTQ2OT
 UzNTYxMiwtMTI4Nzk3ODM3MF19
 -->
