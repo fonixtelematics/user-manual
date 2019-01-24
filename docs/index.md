@@ -4,7 +4,7 @@ Landing page
 
 Check out how to [get started](getting-started.md).
 
-[check this out](https://www.youtube.com/watch?v=ENhTbrGPcjo)
+
 
 ## Commands
 
@@ -20,6 +20,6 @@ Check out how to [get started](getting-started.md).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTkzNzczNywtNDY5NTM1NjEyLC0xMj
+eyJoaXN0b3J5IjpbLTU1MTc5NTY5MCwtNDY5NTM1NjEyLC0xMj
 g3OTc4MzcwXX0=
 -->
