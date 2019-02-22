@@ -1,6 +1,6 @@
-#**Left Hand Menu**
+# Left Hand Menu
 
-**Search Function** 
+## Search Function
 
 The Search function is located at the top of the left menu
 
@@ -48,5 +48,5 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMTYwMjI0XX0=
+eyJoaXN0b3J5IjpbMTY0MjIxMDc5NF19
 -->
