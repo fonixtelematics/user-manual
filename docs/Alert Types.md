@@ -60,6 +60,9 @@ Receive an alert when an asset enters a specified zone
 
 Receive an alert when an asset enters a specified zone
 ![enter image description here](img/fonix_eye_light.png)
+
+https://github.com/fonixtelematics/user-manual/blob/master/docs/img/fonix_eye_light.png 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU3ODI4NTddfQ==
+eyJoaXN0b3J5IjpbNTEwNTUzMDIxXX0=
 -->
