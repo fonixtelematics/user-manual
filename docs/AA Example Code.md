@@ -30,8 +30,11 @@ ETA
 Nearest Vehicle
 New Report Layout
 Add security description
-
-Look tho
+GDPR settings
+Look thorugh features and fuctionality 
+Dallas Key
+Mobile app
+POI search - Power linked to google
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODgwOTQxNDcsLTE5MTc3MDk0NF19
+eyJoaXN0b3J5IjpbMjk4NTcxOTUyLC0xOTE3NzA5NDRdfQ==
 -->
