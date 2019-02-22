@@ -40,7 +40,7 @@ To finish click ‘Save’
 
 You can search for an Alert using the search function in the top right of the module.
 
-## View active Alerts**
+## View active Alerts
 
 Using the menu Navigate to Alerts
 
@@ -50,11 +50,11 @@ You can add a comment on the alert and clicking confirm saves the comment
 
 Click cancel to leave that alert
 
-**SMS Alerts**
+## SMS Alerts
 
 Text message alerts can be set up however this involves a cost, please contact [support@fonixtelematics.com](mailto:support@fonixtelematics.com) if you wish to set this up
 
-**Email Alerts**
+## Email Alerts
 
 Using the menu Navigate to Administration > Alerts
 
@@ -66,5 +66,5 @@ Enter the email address to receive the Alert. Separate multiple emails by a comm
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg0MjM3MTNdfQ==
+eyJoaXN0b3J5IjpbLTg2ODgwNzU1XX0=
 -->
