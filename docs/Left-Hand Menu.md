@@ -4,7 +4,6 @@
 
 The Search function is located at the top of the left menu
 
-<![endif]>
 
 You can use this to search for Assets, POI’s and Asset Groups
 
@@ -12,9 +11,9 @@ You can use this to search for Assets, POI’s and Asset Groups
 
 Your assets are listed alphabetically here
 
-Click on the Asset Icon <![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)<![endif]>  to Zoom and centre the vehicle on the map
+Click on the Asset Icon 
+ to Zoom and centre the vehicle on the map
 
-<![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)<![endif]>
 
 Click on the Asset Name<![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)<![endif]> to Zoom and centre the vehicle on the map and open the vehicle summary, shown below
 
@@ -48,5 +47,5 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 <![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)<![endif]>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjQ5NDk1NV19
+eyJoaXN0b3J5IjpbODQzMzYzNTkxXX0=
 -->
