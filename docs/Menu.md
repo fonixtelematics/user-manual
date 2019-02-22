@@ -1,5 +1,5 @@
 
-<![endif]-->
+# Menu
 
 If you click on 3 bar the menu icon in the top left you will be given the following options:
 
@@ -15,5 +15,5 @@ If you click on 3 bar the menu icon in the top left you will be given the follow
 
 There are also Menu Shortcut Icons on the home page and they are as follows:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMDc3NDA2XX0=
+eyJoaXN0b3J5IjpbLTEyMDE1NDQ5ODddfQ==
 -->
