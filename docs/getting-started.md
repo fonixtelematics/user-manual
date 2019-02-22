@@ -13,8 +13,6 @@ This will open the tracking system and display your assets on the map
 
 If you cannot log in for any reason, please email [support@fonixtelematics.com](mailto:support@fonixtelematics.com)
 
-
-
 We recommend using Google Chrome or Mozilla Firefox web browsers to run the system on
 
 
@@ -29,6 +27,6 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODU4MjU0OSwtMTYwMDIwODc3NywtNz
-A0MTMyMjU2XX0=
+eyJoaXN0b3J5IjpbLTEzMDc4MDQ1NTksLTE2MDAyMDg3NzcsLT
+cwNDEzMjI1Nl19
 -->
