@@ -4,6 +4,7 @@
 
 In the bottom right hand corner of the map you will see the icons shown below
 
+![enter image description here](img/Zoom%20and%20Map%20Icons.JPG)
 
 Clicking on the ? brings up the Map Legend as shown below, which explains the different icons:
 
@@ -15,5 +16,5 @@ Clicking on Layers allows you to select whether POI’s are shown on the map and
 
 Traffic Layer enabled screen below
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE1MjMxMjZdfQ==
+eyJoaXN0b3J5IjpbNzU1OTQwMDIzLC0xNjYxNTIzMTI2XX0=
 -->
