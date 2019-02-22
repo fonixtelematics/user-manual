@@ -52,7 +52,7 @@ Alternatively you can search for a user using the search function in the top rig
 
 Select ‘Disable’ from the bottom left of the window then click ‘Save’
 
-**Change Users Password**
+## Change Users Password
 
 Using the menu Navigate to Administration > Users
 
@@ -64,7 +64,7 @@ Select ‘Change Password’ from the bottom left of the window
 
 Enter New Password and Confirm Password then click ‘Save’
 
-**Change a user’s security level / Role**
+## Change a user’s security level / Role
 
 Using the menu Navigate to Administration > Users
 
@@ -80,5 +80,5 @@ User - for users that you want to give limit access to
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIxOTAxNzhdfQ==
+eyJoaXN0b3J5IjpbLTEzMzI3NjYwMjJdfQ==
 -->
