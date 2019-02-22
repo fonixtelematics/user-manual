@@ -34,7 +34,7 @@ Once you have opened the asset, choose the Group to assign to that asset in the 
 
 To finish click ‘Save’
 
-**Assign a Group to a User**
+## Assign a Group to a User
 
 Using the menu Navigate to Administration > Users
 
@@ -46,5 +46,5 @@ Once you have opened the User, select the Groups to assign to that user
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzQwODc5N119
+eyJoaXN0b3J5IjpbMTI5NzAyMDUzOV19
 -->
