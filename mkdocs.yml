@@ -3,9 +3,22 @@ site_name: Web Client Documentation
 nav:
   - Home: index.md
   - Getting started: getting-started.md
-  - Map: module-map.md
-  - Administration: module-administration.md
-
+  - Map: map.md
+  - Left Hand Menu: left-hand menu.md
+  - Customise Profile: profile.mdc
+  - Menu: menu.md
+  - Reports: reports.md
+  - Alerts: alerts.md
+  - Alert type: alert type.md
+  - Drivers: drivers.md
+  - Groups: groups.md
+  - Management: management.md
+  - Odometer: odometer.md
+  - Points Of Interest (POI's): poi.md
+  - Users: users.mdc
+  - Alerts: viewing alerts.mdc
+  - Users: users.mdc  
+  
 # copyright
 copyright: 'Copyright &copy; 2019 Fonix Telematics Ltd'
 
