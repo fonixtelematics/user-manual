@@ -7,7 +7,7 @@ The Search function is located at the top of the left menu
 
 You can use this to search for Assets, POI’s and Asset Groups
 
-**Assets** **List**
+## Assets List
 
 Your assets are listed alphabetically here
 
@@ -40,7 +40,7 @@ Clicking on a journey brings up the snail trail for that journey and the journey
 
 
 
-##POI (Point Of Interest) List 
+## POI (Point Of Interest) List 
 
 Clicking on POI brings up the POI list, you can click on a POI to see the details and edit that POI.
 
@@ -48,5 +48,5 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjIxMDc5NF19
+eyJoaXN0b3J5IjpbNDI5NDUwODY0XX0=
 -->
