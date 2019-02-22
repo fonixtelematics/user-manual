@@ -16,21 +16,17 @@ If you cannot log in for any reason, please email [support@fonixtelematics.com](
 
 We recommend using Google Chrome or Mozilla Firefox web browsers to run the system on
 
+
+
+You will then be presented with the map screen
+
+
+
 ## Overview
 General concepts.
 
-### fsdfjl
-
-dfld **fs**df
-
-> yadda yadda Theresa May
-
-| Column1 | Column2  |
-|--|--|
-| sfjds |fsfds  |
-|fsdh |jfjsd|
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzkzMjc4LC03MDQxMzIyNTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAyMDg3NzcsLTcwNDEzMjI1Nl19
 -->
