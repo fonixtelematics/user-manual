@@ -1,12 +1,10 @@
+#**Left Hand Menu**
 
-
-<![endif]-->
-
-**Search Function** <![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)<![endif]>
+**Search Function** 
 
 The Search function is located at the top of the left menu
 
-<![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>
+<![endif]>
 
 You can use this to search for Assets, POI’s and Asset Groups
 
@@ -50,5 +48,5 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 <![if !vml]>![](file:////Users/anthonyrantell/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image019.png)<![endif]>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTA2NDQxOV19
+eyJoaXN0b3J5IjpbLTQzNjQ5NDk1NV19
 -->
