@@ -15,11 +15,11 @@ If you cannot log in for any reason, please email [support@fonixtelematics.com](
 
 We recommend using Google Chrome or Mozilla Firefox web browsers to run the system.
 
-
+![enter image description here](img/Fonix%20Log%20In%20Page.png)
 
 You will then be presented with the map screen
 
-
+![enter image description here](img/Map%20Image.JPG)
 
 ## Overview
 General concepts.
@@ -27,5 +27,5 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTU5NTQyMl19
+eyJoaXN0b3J5IjpbLTMyNzYwMjg2NywtOTE1NTk1NDIyXX0=
 -->
