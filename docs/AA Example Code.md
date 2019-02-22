@@ -16,7 +16,11 @@ dfld **fs**df
 | sfjds |fsfds  |
 |fsdh |jfjsd|
 
+Goncalo Questions
+
 Can we add hash tags for key words ie grouping, assign a group
+
+How do we add photos again?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDk0MDg4NywtMTkxNzcwOTQ0XX0=
+eyJoaXN0b3J5IjpbMTUxMzQ5MDg5MSwtMTkxNzcwOTQ0XX0=
 -->
