@@ -4,20 +4,20 @@ nav:
   - Home: index.md
   - Getting started: getting-started.md
   - Map: map.md
-  - Left Hand Menu: left-hand menu.md
-  - Customise Profile: profile.mdc
+  - Side Bar: side-bar.md
+  - Customise Profile: profile.md
   - Menu: menu.md
   - Reports: reports.md
   - Alerts: alerts.md
-  - Alert type: alert type.md
+  - Alert type: alert-types.md
   - Drivers: drivers.md
   - Groups: groups.md
   - Management: management.md
   - Odometer: odometer.md
-  - Points Of Interest (POI's): poi.md
-  - Users: users.mdc
-  - Alerts: viewing alerts.mdc
-  - Users: users.mdc  
+  - Points Of Interest: poi.md
+  - Users: users.md
+  - Alerts: viewing-alerts.md
+  - Users: users.md
   
 # copyright
 copyright: 'Copyright &copy; 2019 Fonix Telematics Ltd'

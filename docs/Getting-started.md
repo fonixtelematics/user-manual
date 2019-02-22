@@ -1,6 +1,7 @@
 # Getting Started
 
 ## Compatible browsers
+
 Our applications are compatible with most modern browsers. However, we do recommend you use [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/firefox/) for a better experience.
 
 ## Logging in
@@ -15,13 +16,14 @@ If you cannot log in for any reason, please email [support@fonixtelematics.com](
 
 We recommend using Google Chrome or Mozilla Firefox web browsers to run the system.
 
-![enter image description here](img/Fonix%20Log%20In%20Page.png)
+![enter image description here](img/login-page.png)
 
 You will then be presented with the map screen
 
-![enter image description here](img/Map%20Image.JPG)
+![enter image description here](img/map-image.jpg)
 
 ## Overview
+
 General concepts.
 
 
