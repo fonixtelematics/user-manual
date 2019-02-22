@@ -19,9 +19,11 @@ The cog symbol brings up Type and Layers, Type gives you the map type views; Roa
 
 Clicking on Layers allows you to select whether POI’s are shown on the map and you can also select the Traffic Overlay, which will overlay Google Traffic on the map
 
-
+![enter image description here](img/POI%20Option.JPG)
 
 Traffic Layer enabled screen below
+
+![enter image description here](img/Map%20with%20Live%20Traffic.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODE5NjEyMSwtMTY2MTUyMzEyNl19
+eyJoaXN0b3J5IjpbLTc3Njg4NzA2OSwtMTY2MTUyMzEyNl19
 -->
