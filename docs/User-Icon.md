@@ -47,6 +47,10 @@ Brings up contact details for Fonix Telematics
 This feature explains any new releases to the platform and where you can find them
 
 If a red dot is shown in the user profile icon as shown below, this means there is a new release and you are yet to read this in the ‘What’s New’ area
+
+## Logout
+
+Click this to log out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDM3MjA0XX0=
+eyJoaXN0b3J5IjpbLTIwNjI1ODYyOTddfQ==
 -->
