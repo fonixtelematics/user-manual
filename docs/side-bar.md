@@ -29,7 +29,7 @@ By clicking on ‘TODAY’ under the Google Street view image you can choose fro
 
 By clicking on the clock under the Google Street view image you can choose a Start and End time for which to show journeys for:
 
-
+![Asset Time Selector](img/time-selector.jpg)
 
 Clicking on the Blue circle with the snail trail shows the snail trail for the whole day
 
@@ -51,6 +51,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDg0MDQ2LC0xMTc0MzA5MDQ0LDQyOT
-Q1MDg2NF19
+eyJoaXN0b3J5IjpbMTY1NzU5MzE0OCwtMTE3NDMwOTA0NCw0Mj
+k0NTA4NjRdfQ==
 -->
