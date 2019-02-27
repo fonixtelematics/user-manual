@@ -14,6 +14,9 @@ If you click on 3 bar the menu icon in the top left you will be given the follow
 **Administration** – Click here to set up or edit Assets, Drivers, POIs, Alerts, Users and Groups
 
 There are also Menu Shortcut Icons on the home page and they are as follows:
+
+![Menu Options](img/menu-breakout.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE1NDQ5ODddfQ==
+eyJoaXN0b3J5IjpbLTE2NDYwMzIxMDIsLTEyMDE1NDQ5ODddfQ
+==
 -->
