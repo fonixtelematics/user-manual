@@ -47,9 +47,9 @@ Clicking on POI brings up the POI list, you can click on a POI to see the detail
 
 See the POI section of this guide for creating, editing and deleting POI’s
 
-
+![POI List](img/POIs.JPG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM4NDUyNDUsMTY1NzU5MzE0OCwtMT
+eyJoaXN0b3J5IjpbLTIxMjM5NDA2MzUsMTY1NzU5MzE0OCwtMT
 E3NDMwOTA0NCw0Mjk0NTA4NjRdfQ==
 -->
