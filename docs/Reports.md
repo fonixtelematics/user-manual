@@ -24,6 +24,8 @@ You can also Export to CSV, Copy Link or Send By Email, or rename the report, th
 
 Reports you have run are stored in the ‘History’ section so they can be viewed without having to run the same report again
 
+![Report History](img/report-history.jpg)
+
 ## Create Scheduled Report
 
 Select Reports from the main menu
@@ -75,5 +77,5 @@ Edit the feature you want to change
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1NDg1NTcsMzYwMzQ4ODQ2XX0=
+eyJoaXN0b3J5IjpbNzEzNjExNzk1LDM2MDM0ODg0Nl19
 -->
