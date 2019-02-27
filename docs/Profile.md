@@ -2,10 +2,13 @@
 
 By clicking on the user icon in the top right hand corner of the map screen you will see the following options:
 
+![User Icon](img/user-icon.jpg)
+
 ## Profile
 
 Clicking on Profile opens the user profile, where you can change preferences, your password and map settings.
-<![endif]-->
+
+
 
 ## User Preferences
 
@@ -52,5 +55,5 @@ If a red dot is shown in the user profile icon as shown below, this means there 
 
 Click this to log out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI1ODYyOTddfQ==
+eyJoaXN0b3J5IjpbLTc2NDI2MzcwMCwtMjA2MjU4NjI5N119
 -->
