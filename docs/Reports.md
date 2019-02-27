@@ -32,6 +32,10 @@ Select Reports from the main menu
 
 ![Report Icon](img/reports-icon.jpg)
 
+Click Report Schedules
+
+
+
 Click ‘ + ’ in bottom right corner which will open the Report Schedule Module Window
 
 Choose Type – Once, Daily, Weekly, Monthly
@@ -78,5 +82,5 @@ Edit the feature you want to change
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTE3NTU3MCwzNjAzNDg4NDZdfQ==
+eyJoaXN0b3J5IjpbMjEwODA0NzIwMiwzNjAzNDg4NDZdfQ==
 -->
