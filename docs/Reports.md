@@ -32,9 +32,9 @@ Select Reports from the main menu
 
 ![Report Icon](img/reports-icon.jpg)
 
-Click Report Schedules
+Click Schedules
 
-
+![Scheduled Reports](img/report-schedules.jpg)
 
 Click ‘ + ’ in bottom right corner which will open the Report Schedule Module Window
 
@@ -82,5 +82,5 @@ Edit the feature you want to change
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODA0NzIwMiwzNjAzNDg4NDZdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODExMTc2MCwzNjAzNDg4NDZdfQ==
 -->
