@@ -5,6 +5,7 @@
 The Search function is located at the top of the left menu
 
 
+
 You can use this to search for Assets, POI’s and Asset Groups
 
 ## Assets List
@@ -50,5 +51,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQzMDkwNDQsNDI5NDUwODY0XX0=
+eyJoaXN0b3J5IjpbLTUxMDExNDA1NCwtMTE3NDMwOTA0NCw0Mj
+k0NTA4NjRdfQ==
 -->
