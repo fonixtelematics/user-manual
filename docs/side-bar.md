@@ -19,7 +19,7 @@ Click on the Asset Icon ![Parked Icon](img/parked-asset.jpg) to Zoom and centre 
 Click on the Asset Name
 to Zoom and centre the vehicle on the map and open the vehicle summary, shown below
 
-
+![Single Asset View](img/single-asset-view.jpg)
 
 Here you can view the vehicle details, current location, the day’s journeys, and change the time and date to show previous journeys.
 
@@ -51,6 +51,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTA3NDc1NywtMTE3NDMwOTA0NCw0Mj
-k0NTA4NjRdfQ==
+eyJoaXN0b3J5IjpbMTM5MDg0MDQ2LC0xMTc0MzA5MDQ0LDQyOT
+Q1MDg2NF19
 -->
