@@ -4,6 +4,8 @@
 
 Select Reports from the main menu
 
+[Report Icon](img/reports-icon.jpg)
+
 Choose the report you wish to run
 
 Select the assets to run the report for, or select All
@@ -71,5 +73,5 @@ Edit the feature you want to change
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMzQ4ODQ2XX0=
+eyJoaXN0b3J5IjpbLTkzMDUxMTAwMCwzNjAzNDg4NDZdfQ==
 -->
