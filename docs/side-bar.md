@@ -35,7 +35,7 @@ Clicking on the Blue circle with the snail trail shows the snail trail for the w
 
 The days journeys are displayed in a chart form as shown below, each blue bar represents a journey
 
-![Asset List Jou](img/Journeys.JPG)
+![Asset List Journeys](img/Journeys.JPG)
 
 Clicking on a journey brings up the snail trail for that journey and the journey details including start and finish addresses, mileage, duration and average speed
 
@@ -49,8 +49,7 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMzOTQwMCwxNjU3NTkzMTQ4LC0xMT
-c0MzA5MDQ0LDQyOTQ1MDg2NF19
+eyJoaXN0b3J5IjpbLTExNjM4NDUyNDUsMTY1NzU5MzE0OCwtMT
+E3NDMwOTA0NCw0Mjk0NTA4NjRdfQ==
 -->
