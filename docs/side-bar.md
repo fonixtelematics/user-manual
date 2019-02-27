@@ -25,7 +25,7 @@ Here you can view the vehicle details, current location, the day’s journeys, a
 
 By clicking on ‘TODAY’ under the Google Street view image you can choose from Yesterday, Last 3 Days and Custom date range
 
-
+![Asset Date Selector](img/date-selector.jpg)
 
 By clicking on the clock under the Google Street view image you can choose a Start and End time for which to show journeys for:
 
@@ -35,7 +35,7 @@ Clicking on the Blue circle with the snail trail shows the snail trail for the w
 
 The days journeys are displayed in a chart form as shown below, each blue bar represents a journey
 
-
+![Asset List Jou](img/Journeys.JPG)
 
 Clicking on a journey brings up the snail trail for that journey and the journey details including start and finish addresses, mileage, duration and average speed
 
@@ -51,6 +51,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzU5MzE0OCwtMTE3NDMwOTA0NCw0Mj
-k0NTA4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNTMzOTQwMCwxNjU3NTkzMTQ4LC0xMT
+c0MzA5MDQ0LDQyOTQ1MDg2NF19
 -->
