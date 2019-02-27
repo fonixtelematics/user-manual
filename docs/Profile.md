@@ -20,7 +20,9 @@ You can turn on or off the following preferences:
 
 **Enable feature preview –** Will enable any features that are currently in development.
 
-## 
+## Map Settings
+
+
 
 Under map settings you can turn on or off the following options:
 
@@ -57,5 +59,5 @@ If a red dot is shown in the user profile icon as shown below, this means there 
 
 Click this to log out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTkwODAwLC0yMDYyNTg2Mjk3XX0=
+eyJoaXN0b3J5IjpbOTY2OTA0MDU5LC0yMDYyNTg2Mjk3XX0=
 -->
