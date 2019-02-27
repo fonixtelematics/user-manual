@@ -20,6 +20,8 @@ Once the report has been run you have the option to print the report by clicking
 
 You can also Export to CSV, Copy Link or Send By Email, or rename the report, these options are shown at the top of the report to the left
 
+![enter image description here](img/report-options.jpg)
+
 Reports you have run are stored in the ‘History’ section so they can be viewed without having to run the same report again
 
 ## Create Scheduled Report
@@ -73,5 +75,5 @@ Edit the feature you want to change
 
 To finish click ‘Save’
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDUxMTAwMCwzNjAzNDg4NDZdfQ==
+eyJoaXN0b3J5IjpbODk1NDg1NTcsMzYwMzQ4ODQ2XX0=
 -->
