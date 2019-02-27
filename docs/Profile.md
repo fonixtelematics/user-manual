@@ -8,7 +8,7 @@ By clicking on the user icon in the top right hand corner of the map screen you 
 
 Clicking on Profile opens the user profile, where you can change preferences, your password and map settings.
 
-
+![User Profile](img/Profile.JPG)
 
 ## User Preferences
 
@@ -19,6 +19,8 @@ You can turn on or off the following preferences:
 **Show address on assets list –** Shows the current address on the asset list
 
 **Enable feature preview –** Will enable any features that are currently in development.
+
+## 
 
 Under map settings you can turn on or off the following options:
 
@@ -55,5 +57,5 @@ If a red dot is shown in the user profile icon as shown below, this means there 
 
 Click this to log out
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDI2MzcwMCwtMjA2MjU4NjI5N119
+eyJoaXN0b3J5IjpbLTg4NTkwODAwLC0yMDYyNTg2Mjk3XX0=
 -->
