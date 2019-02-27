@@ -14,6 +14,7 @@ Your assets are listed alphabetically here
 
 Click on the Asset Icon ![Parked Icon](img/parked-asset.jpg) to Zoom and centre the vehicle on the map
 
+![Asset List](img/asset-list.jpg)
 
 Click on the Asset Name
 to Zoom and centre the vehicle on the map and open the vehicle summary, shown below
@@ -50,6 +51,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODM5OTkzMSwtMTE3NDMwOTA0NCw0Mj
+eyJoaXN0b3J5IjpbMTE0NTA3NDc1NywtMTE3NDMwOTA0NCw0Mj
 k0NTA4NjRdfQ==
 -->
