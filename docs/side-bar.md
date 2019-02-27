@@ -4,7 +4,7 @@
 
 The Search function is located at the top of the left menu
 
-![enter image description here](img/Search.JPG)
+![Search Box](img/Search.JPG)
 
 You can use this to search for Assets, POI’s and Asset Groups
 
@@ -12,8 +12,7 @@ You can use this to search for Assets, POI’s and Asset Groups
 
 Your assets are listed alphabetically here
 
-Click on the Asset Icon 
- to Zoom and centre the vehicle on the map
+Click on the Asset Icon ![Parked Icon](img/parked-asset.jpg) to Zoom and centre the vehicle on the map
 
 
 Click on the Asset Name
@@ -51,6 +50,6 @@ See the POI section of this guide for creating, editing and deleting POI’s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExMjM3NTY2LC0xMTc0MzA5MDQ0LDQyOT
-Q1MDg2NF19
+eyJoaXN0b3J5IjpbMTQ4ODM5OTkzMSwtMTE3NDMwOTA0NCw0Mj
+k0NTA4NjRdfQ==
 -->
