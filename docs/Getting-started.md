@@ -2,7 +2,7 @@
 
 Hello! 
 
-Thanks for taking time to visit the Fonix Telematics user guide. Hopefully we will cover all the can but if not please do contact your 
+Thanks for taking time to visit the Fonix Telematics user guide. Hopefully we will cover everything in this guide but if, for any reason, you can find what you are looking for then please do contact your  
 
 ## Compatible browsers
 
@@ -33,6 +33,6 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4ODg4NzAsLTMyNzYwMjg2NywtOT
+eyJoaXN0b3J5IjpbLTEzNTM1OTg4NDYsLTMyNzYwMjg2NywtOT
 E1NTk1NDIyXX0=
 -->
