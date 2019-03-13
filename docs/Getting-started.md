@@ -1,5 +1,8 @@
 # Getting Started
 
+Hello! 
+
+Thanks for visiting 
 ## Compatible browsers
 
 Our applications are compatible with most modern browsers. However, we do recommend you use [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/firefox/) for a better experience.
@@ -29,5 +32,6 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzYwMjg2NywtOTE1NTk1NDIyXX0=
+eyJoaXN0b3J5IjpbLTE1MzEzNDEzNTEsLTMyNzYwMjg2NywtOT
+E1NTk1NDIyXX0=
 -->
