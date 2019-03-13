@@ -6,12 +6,12 @@ Thanks for taking time to look at the Fonix Telematics user guide. Hopefully we 
 
 We are constantly developing the features and functionality of the system. If you have any suggestions for future developments, we would love to hear you. You can let us know via the 'Feedback' option under the Profile tab. 
 
-Hope you enjoy the syste
+Hope you enjoy the system.
 
 Thanks 
 
-The Fonix Telemaitcs Team
+The Fonix Telematics Team
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY2NDc4MzUsLTIwMDEzMDE5NjksLT
+eyJoaXN0b3J5IjpbLTIwODgyMzAyMjYsLTIwMDEzMDE5NjksLT
 E1Mjk2NTEwMDhdfQ==
 -->
