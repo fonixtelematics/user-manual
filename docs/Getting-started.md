@@ -2,7 +2,8 @@
 
 Hello! 
 
-Thanks for visiting 
+Thanks for taking time to visit the Fonix Telematics user guide. Hopefully we can 
+
 ## Compatible browsers
 
 Our applications are compatible with most modern browsers. However, we do recommend you use [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/firefox/) for a better experience.
@@ -32,6 +33,6 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzNDEzNTEsLTMyNzYwMjg2NywtOT
+eyJoaXN0b3J5IjpbLTE3NjA1NjYwNTQsLTMyNzYwMjg2NywtOT
 E1NTk1NDIyXX0=
 -->
