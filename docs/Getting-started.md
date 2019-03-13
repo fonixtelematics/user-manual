@@ -1,9 +1,5 @@
 # Getting Started
 
-Hello! 
-
-Thanks for taking time to look at the Fonix Telematics user guide. Hopefully we will cover everything in this guide but if, for any reason, you can find what you are looking for then please do contact your managing partner via the 'Support' option under the profile tab within the system. 
-
 ## Compatible browsers
 
 Our applications are compatible with most modern browsers. However, we do recommend you use **[Chrome]**(https://www.google.com/chrome/) or **[Firefox]**(https://www.mozilla.org/firefox/) for a better experience.
@@ -32,6 +28,6 @@ General concepts.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTMyMTU2LC0zMjc2MDI4NjcsLTkxNT
-U5NTQyMl19
+eyJoaXN0b3J5IjpbMTA4NjEwMjEyNSwtMzI3NjAyODY3LC05MT
+U1OTU0MjJdfQ==
 -->
