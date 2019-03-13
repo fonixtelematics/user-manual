@@ -2,6 +2,7 @@
 site_name: Web Client Documentation
 nav:
   - GitHub Reference: index.md
+  - Welcome: intro.md
   - Getting started: getting-started.md
   - Map: map.md
   - Side Bar: side-bar.md
