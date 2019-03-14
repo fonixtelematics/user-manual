@@ -8,7 +8,7 @@ By clicking on the user icon in the top right hand corner of the map screen you 
 
 Clicking on Profile opens the user profile, where you can change preferences, your password and map settings.
 
-![User Profile](img/Profile.JPG)
+![User Profile](img/profile.jpg)
 
 ## User Preferences
 
@@ -40,7 +40,7 @@ Under map settings you can turn on or off the following options:
 
 **Show speed on tooltip for travelling assets -** Shows vehicle speed when you hover over an asset
 
-# Feedback
+## Feedback
 
 You can leave any feedback or suggestions you may have and this will be passed on to our development team
 

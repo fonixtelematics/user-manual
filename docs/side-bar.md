@@ -4,7 +4,7 @@
 
 The Search function is located at the top of the left menu
 
-![Search Box](img/Search.JPG)
+![Search Box](img/search.jpg)
 
 You can use this to search for Assets, POI’s and Asset Groups
 
@@ -35,7 +35,7 @@ Clicking on the Blue circle with the snail trail shows the snail trail for the w
 
 The days journeys are displayed in a chart form as shown below, each blue bar represents a journey
 
-![Asset List Journeys](img/Journeys.JPG)
+![Asset List Journeys](img/journeys.jpg)
 
 Clicking on a journey brings up the snail trail for that journey and the journey details including start and finish addresses, mileage, duration and average speed
 
@@ -47,7 +47,7 @@ Clicking on POI brings up the POI list, you can click on a POI to see the detail
 
 See the POI section of this guide for creating, editing and deleting POI’s
 
-![POI List](img/POIs.JPG)
+![POI List](img/pois.jpg)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTIxMjM5NDA2MzUsMTY1NzU5MzE0OCwtMT

@@ -1,7 +1,7 @@
 # project information
 site_name: Web Client Documentation
 nav:
-  - GitHub Reference: index.md
+  - Home: index.md
   - Welcome: intro.md
   - Getting started: getting-started.md
   - Map: map.md

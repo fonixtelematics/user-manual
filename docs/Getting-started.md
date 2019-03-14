@@ -2,7 +2,7 @@
 
 ## Compatible browsers
 
-Our applications are compatible with most modern browsers. However, we do recommend you use **[Chrome]**(https://www.google.com/chrome/) or **[Firefox]**(https://www.mozilla.org/firefox/) for a better experience.
+Our applications are compatible with most modern browsers. However, we do recommend you use [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/firefox/) for a better experience.
 
 ## Logging in
 
