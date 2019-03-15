@@ -1,0 +1,15 @@
+.wy-nav-side {
+    background-color: #465A64    
+}
+
+.wy-side-nav-search {
+    background-color: #465A64
+}
+
+.wy-menu-vertical a {
+    color: #d1d1d1
+}
+
+.wy-menu-vertical li.current > a {
+    background-color: #d5ecec
+}
