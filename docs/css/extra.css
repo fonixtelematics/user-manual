@@ -1,15 +1,28 @@
 .wy-nav-side {
-    background-color: #465A64    
+    background-color: #3c3c3b    
 }
 
 .wy-side-nav-search {
-    background-color: #465A64
+    background-color: #3c3c3b
 }
 
 .wy-menu-vertical a {
     color: #d1d1d1
 }
 
+.wy-menu-vertical li.current {
+    background-color: #4f4f4e
+}
+
 .wy-menu-vertical li.current > a {
-    background-color: #d5ecec
+     /* background-color: #d5ecec */
+     background-color: white
+}
+
+.wy-menu-vertical li.current a {
+    color: #d1d1d1
+}
+
+.wy-menu-vertical li.current a.current {
+    color: black
 }
