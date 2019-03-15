@@ -1,5 +1,5 @@
 # project information
-site_name: Web Client Documentation
+site_name: Web App
 nav:
   - Home: index.md
   - Welcome: intro.md
@@ -27,12 +27,17 @@ copyright: 'Copyright &copy; 2019 Fonix Telematics Ltd'
 
 # configuration
 theme:
-  name: 'material'
-  palette:
-    primary: 'blue grey'
-    accent: 'teal'
-  logo:
-    icon: 'help'
+  name: 'readthedocs'
+# theme:
+#   name: 'material'
+#   palette:
+#     primary: 'blue grey'
+#     accent: 'teal'
+#   logo:
+#     icon: 'help'
+
+extra_css:
+  - css/extra.css
 
 # customization
 extra:
